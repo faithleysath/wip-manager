@@ -17,7 +17,7 @@ WIP Branch Watcher 是一个Python工具，它监控当前Git仓库的文件变�
 你可以通过PyPI轻松安装此工具：
 
 ```bash
-pip install wip_manager
+pip install wip-manager
 ```
 
 ## 使用方法
